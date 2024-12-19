@@ -1,0 +1,83 @@
+baseURL = 'https://piorus.com/'
+languageCode = 'en-us'
+title = 'Piotr Rusin @piorus'
+theme = 'hugo-coder'
+
+[pagination]
+pagerSize = 20
+
+[services]
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Piotr Rusin @piorus"
+info = "Software Engineer"
+description = "Software Engineering, Go, PHP"
+keywords = "blog,developer,personal"
+avatarurl = "images/avatar.png"
+#gravatar = "john.doe@example.com"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+since = 2024
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+[params.giscus]
+repo = "piorus/piorus"
+repoID = "R_kgDOKRxD9w"
+category = "Announcements"
+categoryID = "DIC_kwDOKRxD984ChvvG"
+mapping = "pathname"
+strict = "0"
+reactionsEnabled = "0"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/piorus"
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/piorus"
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 3
+url = "https://x.com/piorusx"
+#[[params.social]]
+#name = "YouTube"
+#icon = "fa-brands fa-youtube fa-2x"
+#weight = 4
+#url = "https://x.com/piorusx"
+
+
+# Menu links
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "posts/"
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
