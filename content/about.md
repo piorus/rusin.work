@@ -16,7 +16,7 @@ This is my blog where I do technical writings about the things I believe are int
 Tech stack of this website consist of:
 
 * [Hugo](https://gohugo.io) with a [Coder theme](https://themes.gohugo.io/themes/hugo-coder)
-* S3 used for a static website hosting
+* [Netlify](https://www.netlify.com) for continuous delivery and hosting
 * [Giscus](https://giscus.app) for comments
 
 The entire codebase is hosted publicly at GitHub, [here](https://github.com/piorus/piorus.com).
