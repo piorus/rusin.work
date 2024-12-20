@@ -9,7 +9,7 @@ url: "/about"
 
 I’m a software engineer with over 8 years of experience in backend development and a growing interest in distributed systems, microservices, software architecture, and observability.
 
-As of now I’m diving deep into Go programming, distributed systems, and system design, and I'm looking for a Go opportunities.
+As of now I’m diving deep into Go programming, software architecture & design, and I'm actively looking for a Go opportunities.
 
 This is my blog where I do technical writings about the things I believe are interesting, and might be useful for others (like you).
 
