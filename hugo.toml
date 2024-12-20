@@ -61,9 +61,14 @@ icon = "fa-brands fa-gitlab fa-2x"
 weight = 2
 url = "https://gitlab.com/piorus"
 [[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/peter-rusin"
+[[params.social]]
 name = "Twitter"
 icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
+weight = 4
 url = "https://x.com/piorusx"
 #[[params.social]]
 #name = "YouTube"
