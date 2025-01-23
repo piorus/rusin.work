@@ -1,6 +1,6 @@
 ---
 title: 'Content Creation: Why'
-draft: false
+draft: true
 slug: 'content-creation-why'
 date: '2025-01-23'
 ---
@@ -22,5 +22,9 @@ It's a statement.
 You have to start with `why` in order to pursue something greater for a longer period of time. At least it seems so when watching people actually doing it.
 
 I've tried to define it before, but social conditioning made it inherently difficult, spawning doubts and anxiousness.
+
+But I'm growing tired of this relentless pursuit of being perceived in a certain way. It's exhausting, and frankly—stupid.
+
+So here it is, in the form that came to my mind today — my `Why`.
 
 My `why` is to challenge myself into sharing what I know with others without boring them, while growing and learning new stuff along the way.
